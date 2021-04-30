@@ -1,0 +1,54 @@
+<scheme name="Darcula cool" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2020-10-05T21:38:10</property>
+    <property name="ide">AndroidStudio</property>
+    <property name="ideVersion">4.0.1.0</property>
+    <property name="modified">2020-10-05T21:44:32</property>
+    <property name="originalScheme">_@user_Darcula</property>
+  </metaInfo>
+  <attributes>
+    <option name="HTML_CODE">
+      <value />
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
+    </option>
+    <option name="LOGCAT_ASSERT_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff0300" />
+        <option name="BACKGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="LOGCAT_DEBUG_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="aba7a9" />
+      </value>
+    </option>
+    <option name="LOGCAT_ERROR_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff0300" />
+      </value>
+    </option>
+    <option name="LOGCAT_INFO_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="d3d537" />
+      </value>
+    </option>
+    <option name="LOGCAT_VERBOSE_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="5d5d5d" />
+      </value>
+    </option>
+    <option name="LOGCAT_WARNING_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="da8a20" />
+      </value>
+    </option>
+    <option name="MATCHED_BRACE_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

@@ -1,0 +1,9 @@
+<templateSet group="user">
+  <template name="shview" value="override fun show$VIEW$() {&#10;  $VIEWID$.visibility = View.VISIBLE&#10;}&#10;&#10;override fun hide$VIEW$() {&#10;  $VIEWID$.visibility = View.GONE&#10;}" description="Generates a class" toReformat="false" toShortenFQNames="true">
+    <variable name="VIEW" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="VIEWID" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="KOTLIN" value="true" />
+    </context>
+  </template>
+</templateSet>
