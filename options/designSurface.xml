@@ -1,0 +1,64 @@
+<application>
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../layout/compose-model-1615279151017.xml" value="0.8090909090909091" />
+        <entry key="../../../../../layout/compose-model-1615279323424.xml" value="0.44487881157154024" />
+        <entry key="../../../../../layout/compose-model-1615279358674.xml" value="0.9454545454545454" />
+        <entry key="../../../../../layout/compose-model-1615283683583.xml" value="0.4238361266294227" />
+        <entry key="../../../../../layout/compose-model-1615294744244.xml" value="0.5704545454545454" />
+        <entry key="../../../../../layout/compose-model-1615294818262.xml" value="0.5" />
+        <entry key="../../../../../layout/compose-model-1615295601593.xml" value="0.5704545454545454" />
+        <entry key="../../../../../layout/compose-model-1615295721964.xml" value="0.5" />
+        <entry key="../../../../../layout/compose-model-1615295722520.xml" value="0.3954134815844336" />
+        <entry key="../../../../../layout/compose-model-1615297324922.xml" value="0.5704545454545454" />
+        <entry key="../../../../../layout/compose-model-1615297751062.xml" value="0.3954134815844336" />
+        <entry key="../../../../../layout/compose-model-1615299202328.xml" value="0.5693181818181818" />
+        <entry key="../../../../../layout/compose-model-1615302961078.xml" value="0.5" />
+        <entry key="../../../../layout/compose-model-1613422511066.xml" value="1.0" />
+        <entry key="../../../../layout/compose-model-1613422555025.xml" value="0.5" />
+        <entry key="../../../../layout/compose-model-1615323163529.xml" value="0.2722222222222222" />
+        <entry key="../../../../layout/compose-model-1615536982471.xml" value="1.0" />
+        <entry key="../../../../layout/compose-model-1615582997996.xml" value="1.0" />
+        <entry key="../../../../layout/compose-model-1615583070765.xml" value="0.75" />
+        <entry key="../../../../layout/compose-model-1615583997334.xml" value="1.0" />
+        <entry key="../../../../layout/compose-model-1616148160025.xml" value="0.5" />
+        <entry key="../../../../layout/compose-model-1616162697707.xml" value="1.0" />
+        <entry key="../../../../layout/compose-model-1616191597154.xml" value="0.49166666666666664" />
+        <entry key="../../../../layout/compose-model-1616276174734.xml" value="0.4888888888888889" />
+        <entry key="../../../../layout/compose-model-1616276175148.xml" value="0.5" />
+        <entry key="../../../../layout/compose-model-1616278148419.xml" value="2.0" />
+        <entry key="../../../../layout/compose-model-1616278438054.xml" value="2.0" />
+        <entry key="../../../../layout/compose-model-1616278512812.xml" value="2.0" />
+        <entry key="../../../../layout/compose-model-1616278513089.xml" value="0.18274318274318274" />
+        <entry key="../../../../layout/compose-model-1616278705922.xml" value="0.375" />
+        <entry key="../../../../layout/compose-model-1616279716146.xml" value="0.375" />
+        <entry key="../../../../layout/compose-model-1616279812788.xml" value="0.5" />
+        <entry key="../../../../layout/compose-model-1616279839841.xml" value="1.5" />
+        <entry key="../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/activity_rocket_detail.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/activity_step1.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_step2.xml" value="0.335" />
+        <entry key="app/src/main/res/layout/activity_step3.xml" value="0.3648148148148148" />
+        <entry key="app/src/main/res/layout/activity_step4.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/activity_step5.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/activity_step6.xml" value="0.30925925925925923" />
+        <entry key="app/src/main/res/layout/fragment_dashboard.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/fragment_dragons.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/fragment_notifications.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/main_activity.xml" value="0.1921875" />
+        <entry key="app/src/main/res/layout/rocket_detail_item.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/rocket_item.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/rockets_list_activity.xml" value="0.5" />
+        <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.5" />
+        <entry key="core/src/main/res/drawable/placeholder.xml" value="0.5" />
+        <entry key="feature-pokemondetail/src/main/res/layout/activity_pokemon_detail.xml" value="0.5" />
+        <entry key="feature-pokemonlist/src/main/res/drawable/placeholder.xml" value="0.44427083333333334" />
+        <entry key="feature-pokemonlist/src/main/res/layout/item_pokemon.xml" value="0.3574074074074074" />
+        <entry key="feature-pokemonlist/src/main/res/layout/main_fragment.xml" value="0.3574074074074074" />
+      </map>
+    </option>
+  </component>
+</application>

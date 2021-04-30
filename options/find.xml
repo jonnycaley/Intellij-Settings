@@ -1,0 +1,38 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="**" />
+    <mask>*n*</mask>
+    <mask>*ViewModel.kt*</mask>
+    <mask>*Fake*</mask>
+    <mask>*ViewModelTes*</mask>
+    <mask>*sh*</mask>
+    <mask>*Client*</mask>
+    <mask>*Component*</mask>
+    <mask>*Controller*</mask>
+    <mask>*Robot*</mask>
+    <mask>*Dto*</mask>
+    <mask>*Fragment.kt*</mask>
+    <mask>*build.grad*</mask>
+    <mask>*.kt*</mask>
+    <mask>*Fav*</mask>
+    <mask>*kt*</mask>
+    <mask>*xml*</mask>
+    <mask>*strings*</mask>
+    <mask>*.java*</mask>
+    <mask>*robot*</mask>
+    <mask>*.py*</mask>
+    <mask>*.sh*</mask>
+    <mask>*fragment*</mask>
+    <mask>*.*</mask>
+    <mask>*Module*</mask>
+    <mask>*grad*</mask>
+    <mask>*.xml*</mask>
+    <mask>*Fragment*</mask>
+    <mask>*Test*</mask>
+    <mask>*.gradle*</mask>
+    <mask>**</mask>
+  </component>
+</application>

@@ -1,0 +1,18 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="How does an Application work on the Android system?" type="PLAIN_TEXT" />
+      <mapping pattern="what_i_would_do_with_more_time" type="PLAIN_TEXT" />
+      <mapping pattern="availability_overview_one_day" type="PLAIN_TEXT" />
+      <mapping pattern="HiltTestActivity.kt" type="PLAIN_TEXT" />
+      <mapping pattern="Hilt in Multi module apps" type="PLAIN_TEXT" />
+      <mapping ext=" unicode and internationalization support " type="PLAIN_TEXT" />
+      <mapping ext=" handle configuration changes" type="PLAIN_TEXT" />
+      <mapping ext="jks" type="PLAIN_TEXT" />
+      <mapping ext=" test your app with pseudolocales" type="PLAIN_TEXT" />
+      <mapping ext=" language and locale resolution overview " type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
